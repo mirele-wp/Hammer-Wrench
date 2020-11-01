@@ -1,5 +1,5 @@
 # Hammer&Wrench
-##### Hammer&amp;Wrench - developer tool for Mirele projects. Download, loosen, customize, debug, compile and relax
+##### <kbd>Hammer&amp;Wrench</kbd> - developer tool for Mirele projects. Download, loosen, customize, debug, compile and relax
 
 ### How to install?
 
