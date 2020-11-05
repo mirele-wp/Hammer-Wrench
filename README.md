@@ -26,7 +26,8 @@ In your console you will see something like this.
 
 At this step, the installation phase of the tool is successfully completed!
 
-### Introduction to CLI modes of the utility 
+### Introduction to CLI modes of the utility
+#### Checking PHP
 Make sure you have php 7+ installed, type the command in the terminal to do this:
 ```console
 php -v
@@ -41,6 +42,8 @@ If you did not see the output of the PHP version in your console, we recommend u
 2. https://linuxize.com/post/how-to-install-php-on-ubuntu-18-04
 
 Also make sure that your version of PHP is above version _7.0.0_.
+
+#### Checking Hammer&Wrench
 After checking the PHP version, you can start working. To access the utility, enter the command 
 
 ```console
@@ -50,6 +53,7 @@ php "Hammer&Wrench.php"
 
 If you did not see any errors in the console, it means that you did everything right! Congratulations on your first successes! 
 
+#### The first use. Information about available commands
 To know the available commands, pass the _--help_ argument to the utility.
 
 ```console
@@ -59,6 +63,7 @@ php "Hammer&Wrench.php" --help
 
 The rest of the information on commands can be found in the wiki and the table below.
 
+#### Commands
 ###### `--binders`
 Build a script to automatically connect files of templates and Compound components
 
