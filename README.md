@@ -61,14 +61,7 @@ php "Hammer&Wrench.php" --help
 ```
 <sub><sup><b>Explanation of the code:</b> Getting information about available commands of the utility</sup></sub>
 
-The rest of the information on commands can be found in the wiki and the table below.
+The rest of the information on commands can be found in the [WiKi](https://github.com/irtex-mirele/Hammer-Wrench/wiki)
 
-#### Commands
-###### `--binders`
-Build a script to automatically connect files of templates and Compound components
-
-###### `--compound`
-Building the script of automatic connection of files of elements of the Compound framework
-
-###### `--requests`
-Building a script to automatically connect files with the bodies of web request handlers 
+***
+Good luck in diagnosis and development 
